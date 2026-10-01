@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "Thibaut Courtois",
+    "position": "GK",
+    "age": 34,
+    "nationality": "Belgium"
+  },
+  {
+    "id": "2",
+    "name": "Andriy Lunin",
+    "position": "GK",
+    "age": 27,
+    "nationality": "Ukraine"
+  },
+  {
+    "id": "3",
+    "name": "Dani Carvajal",
+    "position": "RB",
+    "age": 34,
+    "nationality": "Spain"
+  },
+  {
+    "id": "4",
+    "name": "Antonio Rudiger",
+    "position": "CB",
+    "age": 33,
+    "nationality": "Germany"
+  },
+  {
+    "id": "5",
+    "name": "David Alaba",
+    "position": "CB",
+    "age": 34,
+    "nationality": "Austria"
+  },
+  {
+    "id": "6",
+    "name": "Eder Militao",
+    "position": "CB",
+    "age": 28,
+    "nationality": "Brazil"
+  },
+  {
+    "id": "7",
+    "name": "Ferland Mendy",
+    "position": "LB",
+    "age": 31,
+    "nationality": "France"
+  },
+  {
+    "id": "8",
+    "name": "Jude Bellingham",
+    "position": "CM",
+    "age": 23,
+    "nationality": "England"
+  },
+  {
+    "id": "9",
+    "name": "Federico Valverde",
+    "position": "CM",
+    "age": 28,
+    "nationality": "Uruguay"
+  },
+  {
+    "id": "10",
+    "name": "Eduardo Camavinga",
+    "position": "CM",
+    "age": 23,
+    "nationality": "France"
+  },
+  {
+    "id": "11",
+    "name": "Aurelien Tchouameni",
+    "position": "CDM",
+    "age": 26,
+    "nationality": "France"
+  },
+  {
+    "id": "12",
+    "name": "Luka Modric",
+    "position": "CM",
+    "age": 41,
+    "nationality": "Croatia"
+  },
+  {
+    "id": "13",
+    "name": "Vinicius Junior",
+    "position": "LW",
+    "age": 26,
+    "nationality": "Brazil"
+  },
+  {
+    "id": "14",
+    "name": "Rodrygo",
+    "position": "RW",
+    "age": 25,
+    "nationality": "Brazil"
+  },
+  {
+    "id": "15",
+    "name": "Kylian Mbappe",
+    "position": "ST",
+    "age": 27,
+    "nationality": "France"
+  },
+  {
+    "name": "Arda Guler",
+    "position": "CAM",
+    "age": 21,
+    "nationality": "Turkey",
+    "id": "97"
+  }
+]
